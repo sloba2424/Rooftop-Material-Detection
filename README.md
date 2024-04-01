@@ -1,4 +1,4 @@
-# ES Innovation Sprint Q4 | Rooftop Segmentation
+# Rooftop Material Detection - Slobodan Zelic SW5-2017
 
 ## Overview
 
